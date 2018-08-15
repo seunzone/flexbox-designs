@@ -2,9 +2,11 @@
 A repository containing UI designs done using css flexbox
 
 ## Links to Hosted Designs
-Navbar: https://seunzone.github.io/flexbox-designs/navbar/navbar.html
-Pricing Table: https://seunzone.github.io/flexbox-designs/pricing-table/price.html
-Pricing Table: https://seunzone.github.io/flexbox-designs/search-bar/search.html
+Navbar: https://seunzone.github.io/flexbox-designs/navbar/navbar.html <br/>
+Pricing Table: https://seunzone.github.io/flexbox-designs/pricing-table/price.html <br/>
+Pricing Table: https://seunzone.github.io/flexbox-designs/search-bar/search.html <br/>
+Pricing Table: https://seunzone.github.io/flexbox-designs/mobile/mobile.html <br/>
+
 
 
 
